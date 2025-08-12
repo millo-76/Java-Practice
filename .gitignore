@@ -1,0 +1,23 @@
+# Ignore JDK binaries and large files
+jdk-21.0.8+9/
+
+# Ignore build output
+/target/
+
+# Ignore IDE and OS files
+*.class
+*.log
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/
+
+# Ignore Maven wrapper files
+.mvn/
+
+# Ignore other large files
+*.zip
+*.tar
+*.gz
+*.7z
