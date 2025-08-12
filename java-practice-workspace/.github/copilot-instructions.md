@@ -1,0 +1,16 @@
+- [x] Clarify Project Requirements
+  - Java Maven workspace requested.
+- [x] Scaffold the Project
+  - Created Maven structure, pom.xml, Main.java, and README.md.
+- [ ] Customize the Project
+  - No customizations requested yet.
+- [ ] Install Required Extensions
+  - No extensions specified for installation.
+- [ ] Compile the Project
+  - Next step: compile and verify setup.
+- [ ] Create and Run Task
+  - Will create a VS Code task for Maven if needed.
+- [ ] Launch the Project
+  - Will provide instructions after successful compile.
+- [ ] Ensure Documentation is Complete
+  - README.md and copilot-instructions.md created.
